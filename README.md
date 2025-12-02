@@ -1,21 +1,21 @@
-# Gage Minamoto
+```markdown
+# 🌱 Gage Minamoto
 
-**Designer-Engineer** based in Hawaiʻi specializing in UX design, visual systems, and AI-driven product development.
+I'm Gage, a designer-engineer based in Hawaiʻi. I specialize in UX design, visual systems, and AI-driven product development.
 
-## Currently Building
-1. Mis San Plas’, a kitchen companion guiding you through any web recipe.
-2. My [new Portfolio site] (https://gageminamoto.vercel.app/) for showcasing my dev projects
+Currently building: **Mi San Plas'**, a kitchen companion that guides you through any web recipe, and my [new portfolio site](https://gageminamoto.vercel.app/) for showcasing dev projects.
 
-**Core Skills**
-- UX/UI Design — Figma, Adobe Creative Suite
-- Frontend — HTML, CSS, React
-- AI Stack — Cursor, v0, Figma Make
-- Systems — Design systems, brand identity, project management
+My main tech stack is React, TypeScript, Tailwind. My favorite tools are Figma, Cursor, v0, and Notion for everything else. I've also worked extensively with design systems, brand identity, and project management.
 
-📧 [info@gageminamoto.com](mailto:info@gageminamoto.com.com) | 🔗 [LinkedIn](https://linkedin.com/in/gageminamoto)
+Most recently, I've been experimenting with AI-accelerated development using Cursor and v0 to rapidly prototype and ship web apps.
+
+If you want to learn more about my work, check out my [portfolio](https://gageminamoto.vercel.app/) or [LinkedIn](https://linkedin.com/in/gageminamoto).
+
+📧 [info@gageminamoto.com](mailto:info@gageminamoto.com)
 
 <!--
-**gageminamoto/gageminamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gageminamoto/gageminamoto** is a ✨ _special_ ✨ repository because its `[README.md](http://README.md)` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
