@@ -2,7 +2,7 @@
 
 I'm Gage, a designer-engineer based in Hawaiʻi. I specialize in UX design, visual systems, and AI-driven product development.
 
-Currently building: **Mi San Plas'**, a kitchen companion that guides you through any web recipe, and my [new portfolio site](https://gageminamoto.vercel.app/) for showcasing dev projects.
+Currently building: **[Mizen]([url](https://parse-n-plate.vercel.app/))'**, a kitchen companion that guides you through any web recipe, and my [new portfolio site](https://gageminamoto.vercel.app/) for showcasing dev projects.
 
 My main tech stack is React, TypeScript, Tailwind. My favorite tools are Figma, Cursor, v0, and Notion for everything else. I've also worked extensively with design systems, brand identity, and project management.
 
