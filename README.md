@@ -1,4 +1,4 @@
-# 🌱 Gage Minamoto
+# Gage Minamoto
 
 Designer and builder based in Hawaiʻi, building software that complements everyday habits.
 
