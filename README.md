@@ -1,6 +1,6 @@
 # 🌱 Gage Minamoto
 
-I'm Gage, a designer-engineer based in Hawaiʻi, specializing in UX design, visual systems, and AI-driven product development.
+Designer and builder based in Hawaiʻi, building software that complements everyday habits.
 
 ## Currently Building
 -  **[Mizen](https://parse-n-plate.vercel.app/)**: A kitchen companion that guides you through any web recipe.
