@@ -11,8 +11,6 @@ Designer and builder based in Hawaiʻi, building software that complements every
 -  **Languages & Frameworks**: React, Next.js, Tailwind, Framer Motion
 -  [**Tools**](https://www.gageminamoto.com/tools): Claude Code, Cursor, Inflight, Conductor, Figma, v0, Notion
 
-I have extensive experience with design systems, brand identity, and project management. Recently, I've been experimenting with AI-accelerated development using Cursor and v0 to rapidly prototype and ship web applications.
-
 If you want to learn more about my work, feel free to check out my [portfolio](https://gageminamoto.vercel.app/) or connect with me on [LinkedIn](https://linkedin.com/in/gageminamoto).
 
 📧 [info@gageminamoto.com](mailto:info@gageminamoto.com)
